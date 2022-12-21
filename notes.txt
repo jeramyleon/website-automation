@@ -1,0 +1,128 @@
+Web Application Testing: Step by Step process
+
+Step 1: Functionality Testing
+- Functionality testing checks the database connection, all links in web pages, 
+cookies, forms used for submitting and/or getting info from the user etc. 
+- Should be done early in developing stages to speed up app-building process. 
+- Perform a set of tasks that can be performed automatically with software or manually
+with a human tester. 
+
+Step 2: Usability Testing
+- This type of testing combines the previously mentioned functionality testing with
+the overall user experience. 
+- Usability testing can be done by getting external testers that simulate your 
+expected user base, or internally by the developers themselves. 
+
+4 stages
+- Developing the testing strategy in a way that all functions of the app are examined
+including the navigation and content. 
+- Recruiting the internal or external test participants 
+- Running the test with the team of experts. 
+- Analyzing results and improving your app accordingly. 
+
+Step 3: Interface Testing
+- This web page test cheks whether or not all interactions between the app server 
+and the web serber run smoothly. 
+- Not only the communication process needs to be tested, but the displaying of error
+messages as well. 
+- Also, this test is used to determine whether the interruptions by the server and/or
+by the user are handled properly. 
+
+Step 4: Compatibility Testing 
+- Compatibility testing is important to ensure that your web app displays as it should
+on all device types. 
+- Developers need to run the browser compatibility test to check if the app is diplayed
+correctly in different browsers.
+- Another test to run is the mobile browser compatibility which, as the name suggests,
+is supposed to confirm that the app displays correctly across mobile browsers. 
+- Different operating systems display certain app elements differently.
+- This is why it is important to run compatibility tests with as many operating systems
+as possible, especially popular ones(Windows, Mac, Linux, etc), as well as different 
+popular browsers(Chrome, Internet Explorer, Safari, etc)
+
+Step 5: Performance Testing 
+- Once you know your app is functional and responsive, you need to check its performance
+under a heavy load. 
+- Performance testing includes testing under different internet speeds as well as 
+under normal and peak loads. 
+- Even in a wider context it might be a good idea to test your overall web server
+performance on a basic level, throught a website speed automated test, as page speed
+influences user experience a lot, and affects your public website's SEO(Stands for 
+Search Engine Optimization, the process of making your site better for search engines).
+- Focus on optimizing your website for mobile devices as mobile SEO plays a vital role
+in generating quality traffic from search results. 
+- Stress Testing is useful to determine the breaking point of the app; it involves
+putting the app under increasing amounts of stress until it stops functioning.
+- After all, you need to discover your app's breaking point before the users do. 
+- Also, keep in mind that you need to determine how your app recovers from crashes. 
+If the recovery isn't smooth, you need to work on its improvement. 
+
+Step 6: Security Testing 
+- Once the web application is developed, it has to be tested for security.
+- This type of testing includes all kinds of processes to determine the app's weak points
+and improve them as much as possible. 
+- Normally, a series of fabricated malicious attacks are used to test how the app
+responds and performs under these circumstances.
+- Here are the basic steps of security testing:
+	- Understanding the security goals and planning the test by considering the 
+	security needs of each of them. 
+	- Identifying the app's security needs
+	- Gathering the info about elements used to develop the app inclduing the OS,
+	hardware, technology, etc.
+	- Identifying and listing all potential threats and vulnerabilities
+	- Preparing the threat profile based on the listed vulnerabilities and risks 
+	- Preparing the test plan
+	- Automated testing on top of the manual testing 
+	- Preparing the security tests case document 
+	- Carrying out the security test cases execution, fixing identified defects,
+	retesting 
+	- Creating a detailed report on the security testing, including the solved
+	issues and the risks that still persist.
+-------------------------------------------------------------------------------
+What is Functional Testing? Types and Examples
+
+What is Functional Testing?***
+- Functional testing is a type of software testing that validates the software system
+against the functional requirements/specifications.
+- The purpose of Functional tests is to test each function of the software application,
+by provifing appropriate input and verifying the output against the functional
+requirements. 
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
